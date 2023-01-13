@@ -55,10 +55,6 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/Kihh',
     },
-    {
-      name: 'Telegram',
-      link: 'https://t.me/VIPKihh',
-    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
